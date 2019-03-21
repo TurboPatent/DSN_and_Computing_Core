@@ -1,0 +1,1118 @@
+{
+  "isLandscape": true,
+  "drawingData": {
+    "cells": [
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 42.999999999999034,
+          "y": 51.00000000000051
+        },
+        "size": {
+          "width": 825,
+          "height": 577
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"8a807f6e-a495-94f5-5d58-3d62e83f0113\" id=\"idb9515114-4246-e7fc-f189-58555599e101\" data-type=\"term\">computing core</span></p>",
+        "strokeStyle": "dashed",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "both",
+        "id": "f299714c-1027-4540-9728-d76249c218bc",
+        "z": 2,
+        "labelLayout": {
+          "labelBoxWidth": 752.89013671875,
+          "fullString": "COMPUTING CORE 104",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "COMPUTING CORE 104",
+              "width": 138.43740844726562,
+              "x": 307.2263641357422,
+              "y": 0
+            }
+          ],
+          "textWidth": 138.43740844726562,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "a66ee0e8-d9e9-6994-f7d5-796af858c404",
+        "number": 4
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "top",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 363,
+          "y": 115
+        },
+        "size": {
+          "width": 191,
+          "height": 61
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"50c3efb5-41a2-2be1-d3a6-c241e55ba4c6\" id=\"id00b1205d-0ed0-7bd7-d21b-a5fba75fa9e4\" data-type=\"term\">video graphics processing unit</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "both",
+        "id": "077bbf6b-c9e1-4c75-8aef-3856565333ab",
+        "z": 3,
+        "labelLayout": {
+          "labelBoxWidth": 174.30548095703125,
+          "fullString": "VIDEO GRAPHICS PROCESSING UNIT 202",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "VIDEO GRAPHICS",
+              "width": 101.69145202636719,
+              "x": 36.30701446533203,
+              "y": 0
+            },
+            {
+              "text": "PROCESSING UNIT 202",
+              "width": 137.4169464111328,
+              "x": 18.44426727294922,
+              "y": 21.000037499999998
+            }
+          ],
+          "textWidth": 137.4169464111328,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "d8793015-abfc-d646-5675-fdc1300afbbb",
+        "number": 2
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 392,
+          "y": 220
+        },
+        "size": {
+          "width": 126,
+          "height": 54
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"84c1e949-5138-befa-65ea-b9711962f8e9\" id=\"ide1a7fca1-3629-0077-094a-1e1d4d43896a\" data-type=\"term\">memory controller</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "both",
+        "id": "7023c0a7-f1f0-4323-be74-a052ee5f7117",
+        "z": 4,
+        "labelLayout": {
+          "labelBoxWidth": 114.98686218261719,
+          "fullString": "MEMORY CONTROLLER 204",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "MEMORY",
+              "width": 56.4810791015625,
+              "x": 29.252891540527344,
+              "y": 3.53742282714844
+            },
+            {
+              "text": "CONTROLLER 204",
+              "width": 105.16285705566406,
+              "x": 4.9120025634765625,
+              "y": 24.537460327148438
+            }
+          ],
+          "textWidth": 105.16285705566406,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "090978e9-a716-a0ea-3ed7-8e626e7ed5dc",
+        "number": 4
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 596,
+          "y": 222
+        },
+        "size": {
+          "width": 125,
+          "height": 53
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"55cd3ad2-e335-731a-e72a-8869d76d0ff2\" id=\"id8e133cda-287f-23b6-658b-8e2724127f58\" data-type=\"term\">main memory</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "both",
+        "id": "b13ade62-1d9a-4798-a05a-7c05eb037853",
+        "z": 5,
+        "labelLayout": {
+          "labelBoxWidth": 114.07426452636719,
+          "fullString": "MAIN MEMORY 206",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "MAIN MEMORY",
+              "width": 93.84660339355469,
+              "x": 10.11383056640625,
+              "y": 3.0830275329589867
+            },
+            {
+              "text": "206",
+              "width": 22.386520385742188,
+              "x": 45.8438720703125,
+              "y": 24.083065032958984
+            }
+          ],
+          "textWidth": 93.84660339355469,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "925d9050-b9e6-e387-1014-e7e126996fc0",
+        "number": 6
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "b13ade62-1d9a-4798-a05a-7c05eb037853"
+        },
+        "target": {
+          "id": "7023c0a7-f1f0-4323-be74-a052ee5f7117"
+        },
+        "id": "e01b501f-1657-478c-9ed7-6c0fc3b3607d",
+        "embeds": "",
+        "z": 6,
+        "routing": "straight",
+        "objectID": "5845c075-72d7-dc96-d94c-30337bda826f",
+        "labelVAlign": "center",
+        "labelPosition": "internal",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 219,
+          "y": 222
+        },
+        "size": {
+          "width": 125,
+          "height": 53
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"f60afdaa-9c8f-bd33-42a5-dc91f4e92552\" id=\"idfdc272ad-57a0-1e91-fc4e-881f94fef7ea\" data-type=\"term\">processing module</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "both",
+        "id": "779757e6-104a-da67-f211-a641219c0583",
+        "z": 6,
+        "labelLayout": {
+          "labelBoxWidth": 114.07426452636719,
+          "fullString": "PROCESSING MODULE 208",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "PROCESSING",
+              "width": 78.57603454589844,
+              "x": 17.749114990234375,
+              "y": 3.0830275329589867
+            },
+            {
+              "text": "MODULE 208",
+              "width": 80.25251770019531,
+              "x": 16.910873413085938,
+              "y": 24.083065032958984
+            }
+          ],
+          "textWidth": 80.25251770019531,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "7fd50eb1-ddaa-ae6a-7c18-f29e6abe5a21",
+        "number": 8
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 395,
+          "y": 320
+        },
+        "size": {
+          "width": 125,
+          "height": 53
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"d3bd619b-a393-c7b3-48ab-a08f3ab81bd5\" id=\"ida0bd3679-3c57-c43e-b3b6-9e467b930046\" data-type=\"term\">io controller</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "both",
+        "id": "a4c28872-c098-c18c-ef9a-1d2e8889216b",
+        "z": 6,
+        "labelLayout": {
+          "labelBoxWidth": 114.07426452636719,
+          "fullString": "IO CONTROLLER 210",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "IO CONTROLLER",
+              "width": 96.28842163085938,
+              "x": 8.892921447753906,
+              "y": 3.0830275329589867
+            },
+            {
+              "text": "210",
+              "width": 22.386520385742188,
+              "x": 45.8438720703125,
+              "y": 24.083065032958984
+            }
+          ],
+          "textWidth": 96.28842163085938,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "e47a3abb-c29c-7979-5a0a-c8ba94735b22",
+        "number": 10
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "779757e6-104a-da67-f211-a641219c0583"
+        },
+        "target": {
+          "id": "7023c0a7-f1f0-4323-be74-a052ee5f7117"
+        },
+        "id": "934fb161-852e-4d3d-a9b0-f79c1879f24a",
+        "embeds": "",
+        "z": 7,
+        "routing": "straight",
+        "objectID": "9c9254f4-7635-9ff5-1d55-bd35a8f0743a",
+        "labelVAlign": "center",
+        "labelPosition": "internal",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"bb1a62d1-d582-8d79-eecf-1dfd69ace118\" id=\"id7ce10821-74d3-920b-f189-6a6feb424c8e\" data-type=\"term\">IO interface module</span></p>",
+        "position": {
+          "x": 213,
+          "y": 320
+        },
+        "size": {
+          "width": 125,
+          "height": 53
+        },
+        "angle": 0,
+        "label": "<p>io interface&nbsp;</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "both",
+        "id": "76a889ad-d675-3cd8-f930-0ecaddf9e12e",
+        "z": 7,
+        "labelLayout": {
+          "labelBoxWidth": 114.07426452636719,
+          "fullString": "IO INTERFACE  212",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "IO INTERFACE  212",
+              "width": 106.556884765625,
+              "x": 3.7586898803710938,
+              "y": 13.583046282958986
+            }
+          ],
+          "textWidth": 106.556884765625,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "04c14edf-8fb2-9564-c503-d3b8c319a491",
+        "number": 12
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "7023c0a7-f1f0-4323-be74-a052ee5f7117"
+        },
+        "target": {
+          "id": "077bbf6b-c9e1-4c75-8aef-3856565333ab"
+        },
+        "id": "8bb169bb-1570-46d7-b1c2-fbd02ec56b99",
+        "embeds": "",
+        "z": 8,
+        "routing": "straight",
+        "objectID": "8e3b020b-9ec8-49b6-ef82-dcdd9d38a367",
+        "labelVAlign": "center",
+        "labelPosition": "internal",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "a4c28872-c098-c18c-ef9a-1d2e8889216b"
+        },
+        "target": {
+          "id": "76a889ad-d675-3cd8-f930-0ecaddf9e12e"
+        },
+        "id": "b230839b-5f92-4887-83f5-3ae3409124f7",
+        "embeds": "",
+        "z": 9,
+        "routing": "straight",
+        "objectID": "60e03fa1-c89c-972d-378a-4079d5292989",
+        "labelVAlign": "center",
+        "labelPosition": "internal",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 58,
+          "y": 298
+        },
+        "size": {
+          "width": 101,
+          "height": 101
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"38f0ffde-de6d-2d12-6e5f-d22262838a07\" id=\"idf379aa64-e0cd-db14-7234-fe6f6402c033\" data-type=\"term\">IO device interface module</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "both",
+        "id": "bd83caa5-3a71-4d20-98ba-989992ad24c5",
+        "z": 10,
+        "labelLayout": {
+          "labelBoxWidth": 92.17200469970703,
+          "fullString": "IO DEVICE INTERFACE MODULE 214",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "IO DEVICE",
+              "width": 59.369354248046875,
+              "x": 16.401325225830078,
+              "y": 14.394078271484378
+            },
+            {
+              "text": "INTERFACE",
+              "width": 63.64256286621094,
+              "x": 14.264720916748047,
+              "y": 35.39411577148438
+            },
+            {
+              "text": "MODULE 214",
+              "width": 80.25251770019531,
+              "x": 5.959743499755859,
+              "y": 56.39415327148437
+            }
+          ],
+          "textWidth": 80.25251770019531,
+          "textHeight": 63.00011249999999
+        },
+        "objectID": "11afe50b-59e6-eb74-37b8-1c84f7551b5b",
+        "number": 14
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "bd83caa5-3a71-4d20-98ba-989992ad24c5"
+        },
+        "target": {
+          "id": "76a889ad-d675-3cd8-f930-0ecaddf9e12e"
+        },
+        "id": "c24d885e-a624-4ed6-bd37-a83356c4e389",
+        "embeds": "",
+        "z": 11,
+        "routing": "straight",
+        "objectID": "8430151e-9f6a-e702-334b-ee4ddd5708c4",
+        "labelVAlign": "center",
+        "labelPosition": "internal",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"a38430ad-b9ae-1b2a-86fc-0e2c117422b6\" id=\"id4196a043-2889-b623-4e97-a256bc64c621\" data-type=\"term\">Read only memory (ROM) basic input output system (BIOS)</span></p>",
+        "position": {
+          "x": 210.9999999999999,
+          "y": 403
+        },
+        "size": {
+          "width": 127,
+          "height": 63
+        },
+        "angle": 0,
+        "label": "<p>ROM BIOS</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "both",
+        "id": "8d94396c-3e7e-4484-a9d1-3f31d452ddcb",
+        "z": 12,
+        "labelLayout": {
+          "labelBoxWidth": 115.89945220947266,
+          "fullString": "ROM BIOS 216",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "ROM BIOS 216",
+              "width": 88.89004516601562,
+              "x": 13.504703521728516,
+              "y": 18.127018298339845
+            }
+          ],
+          "textWidth": 88.89004516601562,
+          "textHeight": 21.000037499999998
+        },
+        "objectID": "10415bec-c41f-f6e8-4e7f-c37429a75fc7",
+        "number": 16
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "8d94396c-3e7e-4484-a9d1-3f31d452ddcb"
+        },
+        "target": {
+          "id": "76a889ad-d675-3cd8-f930-0ecaddf9e12e"
+        },
+        "id": "bae29b7b-ea3a-4620-986c-eaaf176afcc5",
+        "embeds": "",
+        "z": 13,
+        "routing": "straight",
+        "objectID": "a30e80b9-0e85-b3ef-2d50-58d241a6f218",
+        "labelVAlign": "center",
+        "labelPosition": "internal",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"24bc63f0-759f-10ec-05ac-c000a364ee57\" id=\"idd238f38d-eeee-1399-5462-47b6cfd3b6e8\" data-type=\"term\">peripheral component interconnect (PCI) interface</span></p>",
+        "position": {
+          "x": 393,
+          "y": 407.00000000000017
+        },
+        "size": {
+          "width": 128,
+          "height": 59
+        },
+        "angle": 0,
+        "label": "<p>pci interface</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "both",
+        "id": "2f6e1291-4211-401e-96f4-b3baf54aafb2",
+        "z": 14,
+        "labelLayout": {
+          "labelBoxWidth": 116.81204986572266,
+          "fullString": "PCI INTERFACE 218",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "PCI INTERFACE",
+              "width": 86.44819641113281,
+              "x": 15.181926727294922,
+              "y": 5.809410742187502
+            },
+            {
+              "text": "218",
+              "width": 22.386520385742188,
+              "x": 47.212764739990234,
+              "y": 26.8094482421875
+            }
+          ],
+          "textWidth": 86.44819641113281,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "44496c02-125d-0031-b859-da8135f42728",
+        "number": 18
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "2f6e1291-4211-401e-96f4-b3baf54aafb2"
+        },
+        "target": {
+          "id": "a4c28872-c098-c18c-ef9a-1d2e8889216b"
+        },
+        "id": "631c071c-6121-4a0d-8988-2a5468e22993",
+        "embeds": "",
+        "z": 15,
+        "routing": "straight",
+        "objectID": "754ea6a1-6b55-3df0-05c7-8bb9ec765ce5",
+        "labelVAlign": "center",
+        "labelPosition": "internal",
+        "label": " ",
+        "name": " "
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"82048249-5aef-0724-f6ba-38224a6b07d7\" id=\"idc289d89a-4e23-39b3-d2a6-b67b909c0324\" data-type=\"term\">universal serial bus (USB) interface module</span></p>",
+        "position": {
+          "x": 69.99999999999993,
+          "y": 549
+        },
+        "size": {
+          "width": 102,
+          "height": 49
+        },
+        "angle": 0,
+        "label": "<p>USB interface module</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "both",
+        "id": "3a9960cd-0859-46fc-9c13-9f67d01e4b2c",
+        "z": 16,
+        "labelLayout": {
+          "labelBoxWidth": 93.08460235595703,
+          "fullString": "USB INTERFACE MODULE 220",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "USB INTERFACE",
+              "width": 92.006103515625,
+              "x": 0.5392494201660156,
+              "y": 1.2654349121093773
+            },
+            {
+              "text": "MODULE 220",
+              "width": 80.25251770019531,
+              "x": 6.416042327880859,
+              "y": 22.265472412109375
+            }
+          ],
+          "textWidth": 92.006103515625,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "dc5ef847-d358-aee8-c32b-a713fe4fc784",
+        "number": 20
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"fef22d78-abcd-f92e-dc9d-f3f6496324d8\" id=\"id3dc4e84e-c54c-73e1-f500-f28c91f95941\" data-type=\"term\">hard drive interface module</span></p>",
+        "position": {
+          "x": 600,
+          "y": 549
+        },
+        "size": {
+          "width": 103,
+          "height": 49
+        },
+        "angle": 0,
+        "label": "<p>HD interface module</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "both",
+        "id": "65a67e02-9bc2-051a-1293-96697383393a",
+        "z": 17,
+        "labelLayout": {
+          "labelBoxWidth": 93.9971923828125,
+          "fullString": "HD INTERFACE MODULE 228",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "HD INTERFACE",
+              "width": 85.56440734863281,
+              "x": 4.216392517089844,
+              "y": 1.2654349121093773
+            },
+            {
+              "text": "MODULE 228",
+              "width": 80.25251770019531,
+              "x": 6.872337341308594,
+              "y": 22.265472412109375
+            }
+          ],
+          "textWidth": 85.56440734863281,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "b4775546-e0d3-20fc-9225-375bb73a54a6",
+        "number": 28
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 721,
+          "y": 548
+        },
+        "size": {
+          "width": 103,
+          "height": 49
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"e76dd602-cfa6-7048-353d-96d88a020bb4\" id=\"id55b56e5d-5065-48e2-768c-04730e47e5ac\" data-type=\"term\">DSN interface module</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "both",
+        "id": "5a9216b8-b481-b077-a592-e575af3c57ec",
+        "z": 18,
+        "labelLayout": {
+          "labelBoxWidth": 93.9971923828125,
+          "fullString": "DSN INTERFACE MODULE 230",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "DSN INTERFACE",
+              "width": 93.51858520507812,
+              "x": 0.2393035888671875,
+              "y": 1.2654349121093773
+            },
+            {
+              "text": "MODULE 230",
+              "width": 80.25251770019531,
+              "x": 6.872337341308594,
+              "y": 22.265472412109375
+            }
+          ],
+          "textWidth": 93.51858520507812,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "166a21bd-c655-22d6-df0a-045d2c8b8018",
+        "number": 30
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 471,
+          "y": 549
+        },
+        "size": {
+          "width": 120,
+          "height": 48
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"f7ce9b2d-cc3e-eb5e-6a20-41f491fc2d5e\" id=\"id33708a87-d479-cf94-5721-01b31d5cda52\" data-type=\"term\">flash interface module</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "both",
+        "id": "303684b1-c025-ad9b-1936-32adbdd9a637",
+        "z": 18,
+        "labelLayout": {
+          "labelBoxWidth": 109.51129913330078,
+          "fullString": "FLASH INTERFACE MODULE 226",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "FLASH INTERFACE",
+              "width": 104.39750671386719,
+              "x": 2.556896209716797,
+              "y": 0.8110396179199242
+            },
+            {
+              "text": "MODULE 226",
+              "width": 80.25251770019531,
+              "x": 14.629390716552734,
+              "y": 21.811077117919922
+            }
+          ],
+          "textWidth": 104.39750671386719,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "b52500dd-d7f8-709a-1e38-f33a2dd9cf95",
+        "number": 26
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "",
+        "position": {
+          "x": 301,
+          "y": 548.9999999999999
+        },
+        "size": {
+          "width": 142,
+          "height": 51
+        },
+        "angle": 0,
+        "label": "<p><span data-role=\"tag\" data-value=\"39c8306f-d0c6-fb20-2a79-f82fd5d55b2a\" id=\"id9f6edb77-00fa-b166-f1e1-27af5c0d990f\" data-type=\"term\">network interface module</span></p>",
+        "strokeStyle": "solid",
+        "hasName": false,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "both",
+        "id": "532aef8f-f5d0-0a43-18fd-446c374e88de",
+        "z": 19,
+        "labelLayout": {
+          "labelBoxWidth": 129.58836364746094,
+          "fullString": "NETWORK INTERFACE MODULE 224",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "NETWORK INTERFACE",
+              "width": 128.41494750976562,
+              "x": 0.5867080688476562,
+              "y": 2.174231222534182
+            },
+            {
+              "text": "MODULE 224",
+              "width": 80.25251770019531,
+              "x": 24.667922973632812,
+              "y": 23.17426872253418
+            }
+          ],
+          "textWidth": 128.41494750976562,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "701e456f-8952-075d-e107-7efd26827828",
+        "number": 24
+      },
+      {
+        "type": "tp.Element",
+        "shape": "rectangle",
+        "labelVAlign": "center",
+        "isNumbered": true,
+        "outsideNumbers": false,
+        "displayCase": "uppercase",
+        "name": "<p><span data-role=\"tag\" data-value=\"dc5c6e82-b5d0-5d42-568b-54d5afb57114\" id=\"idf6d8103e-7da4-f3d8-bf17-408107ffa189\" data-type=\"term\">host bus adapter (HBA) interface module</span></p>",
+        "position": {
+          "x": 187,
+          "y": 549
+        },
+        "size": {
+          "width": 103,
+          "height": 49
+        },
+        "angle": 0,
+        "label": "<p>HBA interface module</p>",
+        "strokeStyle": "solid",
+        "hasName": true,
+        "labelPosition": "internal",
+        "numberPosition": "position4",
+        "arrowheads": "both",
+        "id": "7644b10d-240c-8ff8-9af8-b72596c10df3",
+        "z": 19,
+        "labelLayout": {
+          "labelBoxWidth": 93.9971923828125,
+          "fullString": "HBA INTERFACE MODULE 222",
+          "endPad": 7.4621734619140625,
+          "lines": [
+            {
+              "text": "HBA INTERFACE",
+              "width": 91.79653930664062,
+              "x": 1.1003265380859375,
+              "y": 1.2654349121093773
+            },
+            {
+              "text": "MODULE 222",
+              "width": 80.25251770019531,
+              "x": 6.872337341308594,
+              "y": 22.265472412109375
+            }
+          ],
+          "textWidth": 91.79653930664062,
+          "textHeight": 42.000074999999995
+        },
+        "objectID": "061f6a88-915b-0f72-1916-632614fa03be",
+        "number": 22
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "5a9216b8-b481-b077-a592-e575af3c57ec"
+        },
+        "target": {
+          "id": "2f6e1291-4211-401e-96f4-b3baf54aafb2"
+        },
+        "id": "68dfece4-69ed-4580-a4d5-e2358fa29699",
+        "embeds": "",
+        "z": 20,
+        "routing": "straight",
+        "objectID": "bd883de1-bcb2-13be-a9f2-56461ee7028d",
+        "vertices": [
+          {
+            "x": 776,
+            "y": 498
+          },
+          {
+            "x": 492,
+            "y": 497
+          }
+        ]
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "65a67e02-9bc2-051a-1293-96697383393a"
+        },
+        "target": {
+          "x": 484,
+          "y": 466
+        },
+        "id": "8407aab5-8e87-4086-b130-72976ef3767a",
+        "embeds": "",
+        "z": 21,
+        "routing": "straight",
+        "objectID": "c5011328-514f-c439-95c8-0dad3438972e",
+        "vertices": [
+          {
+            "x": 653,
+            "y": 519
+          },
+          {
+            "x": 482,
+            "y": 518
+          }
+        ]
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "303684b1-c025-ad9b-1936-32adbdd9a637"
+        },
+        "target": {
+          "x": 468,
+          "y": 466
+        },
+        "id": "8c753409-63d2-4625-99e1-765d981ec7bc",
+        "embeds": "",
+        "z": 22,
+        "routing": "straight",
+        "objectID": "812591df-ed8a-77ec-b3e4-ce54d7c56b2f",
+        "vertices": [
+          {
+            "x": 534,
+            "y": 533
+          },
+          {
+            "x": 471,
+            "y": 533
+          }
+        ]
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "532aef8f-f5d0-0a43-18fd-446c374e88de"
+        },
+        "target": {
+          "x": 439,
+          "y": 466
+        },
+        "id": "5a22e94b-7a6b-4b1c-b38a-7eab6e5b20e8",
+        "embeds": "",
+        "z": 23,
+        "routing": "straight",
+        "objectID": "98466a2c-0c34-b7c1-9c0b-5659e1fddff0",
+        "vertices": [
+          {
+            "x": 376,
+            "y": 522
+          },
+          {
+            "x": 441,
+            "y": 522
+          }
+        ]
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "7644b10d-240c-8ff8-9af8-b72596c10df3"
+        },
+        "target": {
+          "id": "2f6e1291-4211-401e-96f4-b3baf54aafb2"
+        },
+        "id": "58b01762-13b4-4772-96d5-f94a9c7f6dd2",
+        "embeds": "",
+        "z": 24,
+        "routing": "straight",
+        "objectID": "b459c6d2-e579-831e-5912-140f9e0e1a86",
+        "vertices": [
+          {
+            "x": 243,
+            "y": 514
+          },
+          {
+            "x": 428,
+            "y": 513
+          }
+        ]
+      },
+      {
+        "type": "tp.Link",
+        "isNumbered": false,
+        "arrowheads": "both",
+        "strokeStyle": "solid",
+        "displayCase": "uppercase",
+        "showLabel": true,
+        "source": {
+          "id": "3a9960cd-0859-46fc-9c13-9f67d01e4b2c"
+        },
+        "target": {
+          "x": 415,
+          "y": 465
+        },
+        "id": "2e697099-748a-4b0a-8ab1-e389f312ec3d",
+        "embeds": "",
+        "z": 25,
+        "routing": "straight",
+        "objectID": "0684886c-53a0-fce4-99e4-246b84c2fed6",
+        "vertices": [
+          {
+            "x": 120,
+            "y": 499
+          },
+          {
+            "x": 412,
+            "y": 496
+          }
+        ]
+      }
+    ]
+  }
+}
